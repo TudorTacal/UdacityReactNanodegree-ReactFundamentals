@@ -44,7 +44,7 @@ class ListContacts extends React.Component {
                     />
                     <Link
                         to="/create"
-                        className="add-contact"
+                        className="add-contact "
                     >Add Contact</Link>
                 </div>
 
